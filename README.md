@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wiki-152
-- 👀 I’m interested in Developing, Coding, Airplanes, Football
+- 👀 I’m interested in Developing, Coding, Aviation, Football
 - 🌱 I’m currently learning MERN, Spring.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
